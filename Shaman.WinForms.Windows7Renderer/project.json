@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-beta-4253",
+  "compilationOptions": {
+    "keyFile": "ShamanOpenSourceKey.snk"
+  },
+  "compile": [],
+  "frameworks": {
+    "net20": {
+      "frameworkAssemblies": {
+        "System.Drawing": "2.0.0",
+        "System.Windows.Forms": "2.0.0"
+      }
+    }
+  }
+}
