@@ -1,6 +1,6 @@
 # Shaman.WinForms.Windows7Renderer
 
-Renders ToolStrip
+Renders `ToolStrip`s using a Windows 7 theme.
 
 ## Usage
 ```csharp
